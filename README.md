@@ -8,7 +8,7 @@ My  [Kattis][002]
 
 
 
-## Data Structures 
+## [Data Structures] [003] 
 
 | #    | Title                                     | Tag                                      |
 | :--- | :---------------------------------------  | :--------------------------------------- |
@@ -40,8 +40,8 @@ My  [Kattis][002]
 
 [001]: https://www.hackerrank.com/ross_ward_2017
 [002]: https://open.kattis.com/users/ross-ward
-[009]: 
-[013]: 
+[003]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures
+[004]: 
 [014]: 
 [020]: 
 [021]: 
