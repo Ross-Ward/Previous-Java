@@ -1,6 +1,9 @@
 # Previous Java
 
 I am a current undergraduate student at Maynooth University, studying Theoretical Physics and Computer Science, while taking part in modules for high powered compuation. 
+My  [HackerRank][001]
+
+My  [Kattis][002]
 
 
 
@@ -8,34 +11,34 @@ I am a current undergraduate student at Maynooth University, studying Theoretica
 
 | #    | Title                                     | Tag                                      |
 | :--- | :---------------------------------------  | :--------------------------------------- |
-| 1    | [Binary Search] [001]                     | Binary, Search, Sort                     |
-| 7    | [Bit Manipulation] [007]                  | Math, Bit, Sorting                       |
-| 9    | [Palindrome Number] [009]                 | Math, Sorting, Queues, String            |
-| 13   | [Linked List] [013]                       | Sorting, String, Classes, Linking, Lists |
-| 14   | [Recursion] [014]                         | Recursion, loops,                        |
-| 20   | [Sieve of Eratosthenes] [020]             | Stack, Strings, sorting                  |
-| 21   | [Sorting Algorithms] [021]                | Linked List                              |
-| 26   | [Stacks] [026]                            | Array, Stacks,                           |
-| 27   | [Queues] [027]                            | Array, Queues                            |
-| 27   | [Monte Carlo Simulation] [027]            | Array, Monte, Carlo,                     |
+| 1    | [Binary Search] []                        | Binary, Search, Sort                     |
+| 7    | [Bit Manipulation] []                     | Math, Bit, Sorting                       |
+| 9    | [Palindrome Number] ]                     | Math, Sorting, Queues, String            |
+| 13   | [Linked List] []                          | Sorting, String, Classes, Linking, Lists |
+| 14   | [Recursion] []                            | Recursion, loops,                        |
+| 20   | [Sieve of Eratosthenes] []                | Stack, Strings, sorting                  |
+| 21   | [Sorting Algorithms] []                   | Linked List                              |
+| 26   | [Stacks] []                               | Array, Stacks,                           |
+| 27   | [Queues] []                               | Array, Queues                            |
+| 27   | [Monte Carlo Simulation] []              | Array, Monte, Carlo,                     |
 
 ## Algorithms 
 
 | #    | Title                                     | Tag                              |
 | :--- | :---------------------------------------  | :------------------------------- |
-| 2    | [Binary Trees] [002]                      | Binary, Math, Sorting            |
-| 3    | [LCryptography] [003]                     | Cryptography, Math, Sorting      |
-| 5    | [Data Compression] [005]                  | String, Big, Data, Manipulation  |
-| 6    | [Hashing / HashMaps] [006]                | Hash, HashMaps, Mapping          |
-| 8    | [Quick Sort] [008]                        | Math, String, Sort, Sorting      |
-| 15   | [Translations] [015]                      | Array, Translation, String, Int  |
+| 2    | [Binary Trees] []                         | Binary, Math, Sorting            |
+| 3    | [LCryptography] []                        | Cryptography, Math, Sorting      |
+| 5    | [Data Compression] []                     | String, Big, Data, Manipulation  |
+| 6    | [Hashing / HashMaps] []                   | Hash, HashMaps, Mapping          |
+| 8    | [Quick Sort] []                           | Math, String, Sort, Sorting      |
+| 15   | [Translations] []                         | Array, Translation, String, Int  |
 
 
 
 
 
-[001]: 
-[007]: 
+[001]: https://www.hackerrank.com/ross_ward_2017
+[002]: https://open.kattis.com/users/ross-ward
 [009]: 
 [013]: 
 [014]: 
