@@ -13,26 +13,26 @@ My  [Kattis][002]
 | #    | Title                                     | Tag                                      |
 | :--- | :---------------------------------------  | :--------------------------------------- |
 | 1    | [Binary Search] []                        | Binary, Search, Sort                     |
-| 7    | [Bit Manipulation] []                     | Math, Bit, Sorting                       |
-| 9    | [Palindrome Number] []                    | Math, Sorting, Queues, String            |
-| 13   | [Linked List] []                          | Sorting, String, Classes, Linking, Lists |
-| 14   | [Recursion][005]                          | Recursion, loops,                        |
-| 20   | [Sieve of Eratosthenes][006]              | Stack, Strings, sorting                  |
-| 21   | [Sorting Algorithms] []                   | Linked List                              |
-| 26   | [Stacks] []                               | Array, Stacks,                           |
-| 27   | [Queues] []                               | Array, Queues                            |
-| 27   | [Monte Carlo Simulation] [004]            | Array, Monte, Carlo,                     |
+| 2    | [Bit Manipulation] []                     | Math, Bit, Sorting                       |
+| 3    | [Palindrome Number] []                    | Math, Sorting, Queues, String            |
+| 4    | [Linked List] []                          | Sorting, String, Classes, Linking, Lists |
+| 5    | [Recursion][005]                          | Recursion, loops,                        |
+| 6    | [Sieve of Eratosthenes][006]              | Stack, Strings, sorting                  |
+| 7    | [Sorting Algorithms] []                   | Linked List                              |
+| 8    | [Stacks] []                               | Array, Stacks,                           |
+| 9    | [Queues] []                               | Array, Queues                            |
+| 10   | [Monte Carlo Simulation][004]             | Array, Monte, Carlo,                     |
 
 ## Algorithms 
 
 | #    | Title                                     | Tag                              |
 | :--- | :---------------------------------------  | :------------------------------- |
-| 2    | [Binary Trees] []                         | Binary, Math, Sorting            |
-| 3    | [Cryptography] []                         | Cryptography, Math, Sorting      |
-| 5    | [Data Compression] []                     | String, Big, Data, Manipulation  |
-| 6    | [Hashing / HashMaps] []                   | Hash, HashMaps, Mapping          |
-| 8    | [Quick Sort] []                           | Math, String, Sort, Sorting      |
-| 15   | [Translations] []                         | Array, Translation, String, Int  |
+| 11   | [Binary Trees] []                         | Binary, Math, Sorting            |
+| 12   | [Cryptography] []                         | Cryptography, Math, Sorting      |
+| 13   | [Data Compression] []                     | String, Big, Data, Manipulation  |
+| 14   | [Hashing / HashMaps] []                   | Hash, HashMaps, Mapping          |
+| 15   | [Quick Sort] []                           | Math, String, Sort, Sorting      |
+| 16   | [Translations] []                         | Array, Translation, String, Int  |
 
 
 
