@@ -12,7 +12,7 @@ My  [Kattis][002]
 
 | #    | Title                                     | Tag                                      |
 | :--- | :---------------------------------------  | :--------------------------------------- |
-| 1    | [Binary Search] []                        | Binary, Search, Sort                     |
+| 1    | [Binary Search][007]                      | Binary, Search, Sort                     |
 | 2    | [Bit Manipulation] []                     | Math, Bit, Sorting                       |
 | 3    | [Palindrome Number] []                    | Math, Sorting, Queues, String            |
 | 4    | [Linked List] []                          | Sorting, String, Classes, Linking, Lists |
@@ -44,8 +44,8 @@ My  [Kattis][002]
 [004]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures/Monte%20Carlo%20Simulation
 [005]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures/Recursion
 [006]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures/Sieve%20of%20Eratosthenes
-[021]: 
-[026]: 
+[007]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures/Binary%20Search
+[008]: 
 [027]: 
 [028]: 
 [035]: 
