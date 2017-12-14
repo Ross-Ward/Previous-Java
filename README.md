@@ -16,12 +16,12 @@ My  [Kattis][002]
 | 7    | [Bit Manipulation] []                     | Math, Bit, Sorting                       |
 | 9    | [Palindrome Number] []                    | Math, Sorting, Queues, String            |
 | 13   | [Linked List] []                          | Sorting, String, Classes, Linking, Lists |
-| 14   | [Recursion] [005]                            | Recursion, loops,                        |
-| 20   | [Sieve of Eratosthenes] [006]                | Stack, Strings, sorting                  |
+| 14   | [Recursion][005]                          | Recursion, loops,                        |
+| 20   | [Sieve of Eratosthenes][006]              | Stack, Strings, sorting                  |
 | 21   | [Sorting Algorithms] []                   | Linked List                              |
 | 26   | [Stacks] []                               | Array, Stacks,                           |
 | 27   | [Queues] []                               | Array, Queues                            |
-| 27   | [Monte Carlo Simulation] [004]               | Array, Monte, Carlo,                     |
+| 27   | [Monte Carlo Simulation] [004]            | Array, Monte, Carlo,                     |
 
 ## Algorithms 
 
