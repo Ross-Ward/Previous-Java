@@ -1,6 +1,6 @@
 # Previous Java
 
-I am a current undergraduate student at Maynooth University, studying Theoretical Physics and Computer Science, while taking part in modules for high powered compuation.
+I am a current undergraduate student at Maynooth University, studying [Theoretical Physics][008] and [Computer Science][009], while taking part in modules for high powered compuation.
 
 My  [HackerRank][001]
 
@@ -45,8 +45,8 @@ My  [Kattis][002]
 [005]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures/Recursion
 [006]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures/Sieve%20of%20Eratosthenes
 [007]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures/Binary%20Search
-[008]: 
-[027]: 
+[008]: https://www.maynoothuniversity.ie/theoretical-physics/
+[009]: https://www.maynoothuniversity.ie/computer-science
 [028]: 
 [035]: 
 [038]: 
