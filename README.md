@@ -16,19 +16,19 @@ My  [Kattis][002]
 | 7    | [Bit Manipulation] []                     | Math, Bit, Sorting                       |
 | 9    | [Palindrome Number] []                    | Math, Sorting, Queues, String            |
 | 13   | [Linked List] []                          | Sorting, String, Classes, Linking, Lists |
-| 14   | [Recursion] []                            | Recursion, loops,                        |
-| 20   | [Sieve of Eratosthenes] []                | Stack, Strings, sorting                  |
+| 14   | [Recursion] [005]                            | Recursion, loops,                        |
+| 20   | [Sieve of Eratosthenes] [006]                | Stack, Strings, sorting                  |
 | 21   | [Sorting Algorithms] []                   | Linked List                              |
 | 26   | [Stacks] []                               | Array, Stacks,                           |
 | 27   | [Queues] []                               | Array, Queues                            |
-| 27   | [Monte Carlo Simulation] []               | Array, Monte, Carlo,                     |
+| 27   | [Monte Carlo Simulation] [004]               | Array, Monte, Carlo,                     |
 
 ## Algorithms 
 
 | #    | Title                                     | Tag                              |
 | :--- | :---------------------------------------  | :------------------------------- |
 | 2    | [Binary Trees] []                         | Binary, Math, Sorting            |
-| 3    | [LCryptography] []                        | Cryptography, Math, Sorting      |
+| 3    | [Cryptography] []                         | Cryptography, Math, Sorting      |
 | 5    | [Data Compression] []                     | String, Big, Data, Manipulation  |
 | 6    | [Hashing / HashMaps] []                   | Hash, HashMaps, Mapping          |
 | 8    | [Quick Sort] []                           | Math, String, Sort, Sorting      |
@@ -41,9 +41,9 @@ My  [Kattis][002]
 [001]: https://www.hackerrank.com/ross_ward_2017
 [002]: https://open.kattis.com/users/ross-ward
 [003]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures
-[004]: 
-[014]: 
-[020]: 
+[004]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures/Monte%20Carlo%20Simulation
+[005]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures/Recursion
+[006]: https://github.com/Ross-Ward/Previous-Java/tree/master/Data%20Structures/Sieve%20of%20Eratosthenes
 [021]: 
 [026]: 
 [027]: 
